@@ -11,7 +11,7 @@ class Sword(Weapon):
 
 class Bow(Weapon):
     def attack(self):
-        return "Воин наносит удар из лука."
+        return "Воин стреляет из лука."
 
 class Axe(Weapon):
     def attack(self):
